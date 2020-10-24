@@ -4,3 +4,5 @@ SQL-project that is useful to create the database of a normal cinema.
 It was developed during the years of study at University of Firenze.
 # Infos
 It contains tables, some queries, functions and procedures.
+# Authors
+Camillo Levi / Nicole Michielin
